@@ -7,3 +7,5 @@ Please help us re-create Cosmos Os as an x64 tool.
 1. Build has been updated
 2. SYSLINUX May need updating to x64
 3. Bochs is an IA-86 Emulator which is no use to us
+4. currently working on Cosmosx64/source/Cosmos.Build.Builder
+/BuildTasks/
