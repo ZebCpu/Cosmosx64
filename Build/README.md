@@ -1,3 +1,5 @@
+NOT SURE ABOUT SYSLINUX. I think this needs to be updated to x64
+
 ### Bin
 
 - Often may appear to be a copy of VSIP but is used to provide bin refs to projs in SLN files. 
