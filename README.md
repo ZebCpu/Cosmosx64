@@ -4,5 +4,6 @@ Here we are re-creating Comos OS as an x64 version as Cosmos OS written in x86 i
 
 Please help us re-create Cosmos Os as an x64 tool.
 
+Build has been updated
 SYSLINUX May need updating to x64
 Bochs is an IA-86 Emulator which is no use to us
